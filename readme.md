@@ -1,6 +1,6 @@
 # Elevator System
-Control a system with n cabinets, to serve m floors (application's parameters).
-On each floor there will be one panel (client) for customers to send their requests to backend.
+Control a system with cabinets, to serve floors.
+On each floor there will be one panel for customers to send their requests to backend.
 
 - [Elevator System](#elevator-system)
   - [RESTful API](#restful-api)
